@@ -2,7 +2,7 @@
 
 ## Description
 
-In today's polarized societies, the integral job of the news media as an unbiased and fair reciprocater of the facts has changed dramatically. We tend to want to hear the news we that sounds good to us, and this restricts us to a narrow point-of-view that very often introduces bias into our thinking. Left, Right and Center attempts to braoden our ideas by encouraging us to incorporate news from various sources, removing us from our bubbles and allowing us to see certain issues from a different point-of-view. This Chrome extension keeps tracks of the articles a user reads from a particular news organization, identifies the topics that is most relevant to them and suggests articles of the same topics but from a different, more polar news media source.
+In today's polarized societies, the integral job of the news media as an unbiased and fair reciprocator of the facts has changed dramatically. We tend to want to hear the news we that sounds good to us, and this restricts us to a narrow point-of-view that very often introduces bias into our thinking. Left, Right and Center attempts to braoden our ideas by encouraging us to incorporate news from various sources, removing us from our bubbles and allowing us to see certain issues from a different point-of-view. This Chrome extension keeps tracks of the articles a user reads from a particular news organization, identifies the topics that is most relevant to them and suggests articles of the same topics but from a different, more polar news media source.
 
 Check out our DevPost writeup for more information: https://devpost.com/software/left-right-and-center
 
